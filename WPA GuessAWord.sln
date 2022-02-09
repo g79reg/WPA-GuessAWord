@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPA GuessAWord", "WPA GuessAWord\WPA GuessAWord.csproj", "{62F4DAD4-EC00-4C7C-8244-B4286F265EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F4DAD4-EC00-4C7C-8244-B4286F265EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F4DAD4-EC00-4C7C-8244-B4286F265EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F4DAD4-EC00-4C7C-8244-B4286F265EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F4DAD4-EC00-4C7C-8244-B4286F265EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E853D817-0EEF-4D56-A07B-6E3200A4A87E}
+	EndGlobalSection
+EndGlobal
